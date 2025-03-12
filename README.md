@@ -62,21 +62,24 @@ node main.js or node main-thread.js
 
 ## Buy Me a Coffee
 
-- EVM:
+- ETH:
 ```bash
-0x47f41Fcb17cF9B7A02C26EE855d26bB8D3928E1b
+0x453908Ef182013f9F2cb4553ee6fe417a7BCcc8a
 ```
 - TON:
 ```bash
-UQA-qG5eyQ7gVxvPDpy484xzc0UPS9a8hJsUAwe0T_3D7_oF
+EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q
+```
+MEMO - 
+```bash
+4764816707
 ```
 - SOL:
 ```bash
-A1pUv13rRDtubtYJuXswZYSQBJojPhthXJftfNZBRnEX
+7XtrMmE1cBMF4duYRyoWGCvjBsLfipAAetWVu5MFD6aK
 ```
 - SUI:
 ```bash
-0xeb697918d66c4ade867d61d0b8fb541df83675e8f60b6b81da8917aab149ee8f
+0xf6dae0ea33b7bb7566aa436292ab7688630cce918267398c8f507b0a8669266d
 ```
 **D4rkCipherX**
-
