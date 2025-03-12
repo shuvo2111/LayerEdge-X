@@ -2,7 +2,7 @@
 
 ## 🚨 Attention Before Running LayerEdge Script
 
-- Do All the steps carefully for errorless run !
+- Do All the steps carefully for Errorless run !
 
 ## LayerEdge Node cli version Script features
 
@@ -22,7 +22,7 @@ cd Layeredge-X
 npm install
 ```
 
-- Setup config in config.js if needed to customize options then
+- Setup ``config.js`` if needed to customize options then
 
 ```bash
 nano config.js
