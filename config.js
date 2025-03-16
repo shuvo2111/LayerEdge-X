@@ -1,8 +1,9 @@
 export const config = {
-  ref_code: "",
+  baseURL: "https://referralapi.layeredge.io/api",
+  ref_code: "u9NH68wt",
   num_ref: 500, // number of references
   max_threads: 50, // number of threads
-
+  auto_task: true,
   ////// Test key============No change
   rpc: "https://1rpc.io/base",
   //valid values: 2captcha, anticaptcha
