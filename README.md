@@ -60,6 +60,15 @@ nano wallets.json
 node main.js or node main-thread.js
 ```
 
+## For Auto Refer 
+```bash
+nano config.js
+```
+add your refer code and start the bot using
+```bash
+node autoref.js
+```
+
 ## Buy Me a Coffee
 
 - ETH:
