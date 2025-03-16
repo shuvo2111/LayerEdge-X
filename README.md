@@ -8,6 +8,7 @@
 
 - Auto check in
 - Auto task
+- Auto Submit Proof
 - Auto verify twitter
 - Support proxy/no proxy
 - Mutiple threads, multiple accounts
